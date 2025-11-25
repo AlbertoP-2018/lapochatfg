@@ -1,0 +1,285 @@
+
+deckOfCards.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bastos1
+  rotate: false
+  xy: 1, 733
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+bastos2
+  rotate: false
+  xy: 1, 550
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+bastos3
+  rotate: false
+  xy: 121, 733
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+bastos4
+  rotate: false
+  xy: 1, 367
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+bastos5
+  rotate: false
+  xy: 121, 550
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+bastos6
+  rotate: false
+  xy: 241, 733
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+bastos8
+  rotate: false
+  xy: 1, 184
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+bastos9
+  rotate: false
+  xy: 121, 367
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+bastos10
+  rotate: false
+  xy: 241, 550
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+bastos7
+  rotate: false
+  xy: 361, 733
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas1
+  rotate: false
+  xy: 1, 1
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas10
+  rotate: false
+  xy: 121, 184
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas9
+  rotate: false
+  xy: 241, 367
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas8
+  rotate: false
+  xy: 361, 550
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas7
+  rotate: false
+  xy: 481, 733
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas6
+  rotate: false
+  xy: 121, 1
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas5
+  rotate: false
+  xy: 241, 184
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas4
+  rotate: false
+  xy: 361, 367
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas3
+  rotate: false
+  xy: 481, 550
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+copas2
+  rotate: false
+  xy: 601, 733
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas3
+  rotate: false
+  xy: 241, 1
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas2
+  rotate: false
+  xy: 361, 184
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas1
+  rotate: false
+  xy: 481, 367
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas10
+  rotate: false
+  xy: 601, 550
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas9
+  rotate: false
+  xy: 721, 733
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas8
+  rotate: false
+  xy: 361, 1
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas7
+  rotate: false
+  xy: 481, 184
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas6
+  rotate: false
+  xy: 601, 367
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas5
+  rotate: false
+  xy: 721, 550
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+espadas4
+  rotate: false
+  xy: 841, 733
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros1
+  rotate: false
+  xy: 481, 1
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros10
+  rotate: false
+  xy: 601, 184
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros9
+  rotate: false
+  xy: 721, 367
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros8
+  rotate: false
+  xy: 841, 550
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros7
+  rotate: false
+  xy: 601, 1
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros6
+  rotate: false
+  xy: 721, 184
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros5
+  rotate: false
+  xy: 841, 367
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros4
+  rotate: false
+  xy: 721, 1
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros3
+  rotate: false
+  xy: 841, 184
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1
+oros2
+  rotate: false
+  xy: 841, 1
+  size: 118, 181
+  orig: 118, 181
+  offset: 0, 0
+  index: -1

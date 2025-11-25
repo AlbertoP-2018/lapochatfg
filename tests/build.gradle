@@ -1,0 +1,68 @@
+plugins {
+  id 'java'
+  id 'eclipse'
+}
+
+java {
+  sourceCompatibility = JavaVersion.VERSION_11
+  targetCompatibility = JavaVersion.VERSION_11
+}
+
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+
+sourceSets {
+  test {
+    java {
+      srcDirs = ['src']
+    }
+  }
+}
+
+eclipse {
+  project {
+    name = "${appName}-tests"
+  }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // testImplementation project(':core')
+    implementation project(":core")
+
+    // Backend headless
+    implementation "com.badlogicgames.gdx:gdx-backend-headless:1.13.1"
+    implementation "com.badlogicgames.gdx:gdx-platform:1.13.1:natives-desktop"
+
+    // JUnit 4
+    testImplementation "junit:junit:4.13.2"
+}
+
+/*
+sourceCompatibility = 1.8
+sourceSets.test.java.srcDirs = ["src/"]
+
+apply plugin: "java"
+
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+
+
+
+sourceSets {
+	test {
+        java {
+            srcDir 'src'
+        }
+    }
+
+
+}
+
+//dist.dependsOb classes
+
+eclipse.project.name = appName + "-tests"
+
+ */
