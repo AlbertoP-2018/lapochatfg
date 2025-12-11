@@ -3,9 +3,9 @@ package com.tfdevelopment.pochaonlinetfd.utils.conf;
 public class Config {
     public static final String VERSION = "v2.0.0";
 
-    public static final String URL = "http://192.168.31.155:8080";
+    // public static final String URL = "http://192.168.31.155:8080";
     // public static final String URL = "http://192.168.1.106:8080";
-    // public static final String URL = "wss://pochaonlinetfd.eu-4.evennode.com";
+    public static final String URL = "wss://pochaonlinetfd.eu-4.evennode.com";
 
     public static final boolean ADS_ON = true;
     public static final boolean AD_TEST = false;
